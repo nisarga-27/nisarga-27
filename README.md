@@ -12,152 +12,101 @@
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
+<!-- ================= CONNECT ================= -->
 
-<div align="center">
+<p align="center">
 
-## 👩‍💻 About Me
+<a href="https://www.linkedin.com/in/nisarga-k-s-13340832b/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-</div>
+<a href="https://github.com/nisarga-27">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-<table>
-<tr>
-<td width="60%">
+<a href="mailto:ksnisarga200406@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-🎓 **Computer Science Engineering Student**
+</p>
 
-📍 Mysore, Karnataka
+<p align="center">
 
-🤖 Passionate about **Artificial Intelligence & Generative AI**
+<img src="https://komarev.com/ghpvc/?username=nisarga-27&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge">
 
-🧠 Interested in **LLMs, RAG, Agentic AI, Multi-Agent Systems & Machine Learning**
-
-💡 I enjoy building **practical AI-powered applications** using modern frameworks and technologies.
-
-🚀 Currently exploring and building intelligent AI solutions.
-
-</td>
-
-<td width="40%" align="center">
-
-```text
-AI ENGINEER
-     ↓
-  LEARN
-     ↓
-  BUILD
-     ↓
-  INNOVATE
+</p>
 
 ---
 
-<div align="center">
+<!-- ================= ABOUT ME ================= -->
 
-## 🛠️ Tech Stack
+## 👩‍💻 About Me
+
+I'm **Nisarga K S**, a Computer Science Engineering student from **Mysore, Karnataka**, passionate about building intelligent AI-powered applications.
+
+I specialize in exploring **Generative AI, Large Language Models, RAG, Agentic AI, Multi-Agent Systems, and Machine Learning**.
+
+I enjoy transforming AI concepts into practical applications using modern frameworks and technologies.
+
+### 🎯 What I Do
+
+- 🤖 Build applications using **Generative AI and LLMs**
+- 📚 Develop **RAG-based intelligent systems**
+- 🔗 Work with **LangChain and LangGraph**
+- 🤝 Explore **Agentic AI and Multi-Agent Systems**
+- 🎙️ Build **Voice AI applications**
+- 🧠 Apply **Machine Learning and Deep Learning**
+- ⚡ Develop AI backends using **FastAPI**
+
+---
+
+<!-- ================= CAREER OBJECTIVE ================= -->
+
+## 🎯 Career Objective
+
+> Aspiring **AI Engineer** with hands-on experience in Generative AI, LLMs, RAG, Agentic AI, LangChain, LangGraph, CrewAI, ChromaDB, and FastAPI. Passionate about building intelligent AI applications and multi-agent systems that solve real-world problems.
+
+---
+
+<!-- ================= EDUCATION ================= -->
+
+## 🎓 Education
 
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td width="80%">
 
-### 💻 Programming
+### Vidya Vikas Institute of Engineering and Technology, Mysore
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql&theme=dark" />
+**B.E. — Computer Science Engineering**
+
+📅 2022 – 2026
+
+⭐ **CGPA: 9.1**
+
+</td>
+
+<td width="20%" align="center">
+
+🎓
+
+**CSE**
 
 <br><br>
 
-**Python • Java • SQL**
-
-</td>
-
-<td align="center" width="33%">
-
-### 🤖 Generative AI
-
-<br>
-
-**LLMs • RAG**
-
-**LangChain • LangGraph**
-
-**CrewAI • ChromaDB**
-
-</td>
-
-<td align="center" width="33%">
-
-### 🧠 AI & ML
-
-<br>
-
-**Machine Learning**
-
-**Deep Learning**
-
-**NLP**
-
-**TensorFlow • CNN**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="33%">
-
-### ⚡ Backend
-
-<br>
-
-**FastAPI**
-
-**REST APIs**
-
-**Tool Calling**
-
-**AI Orchestration**
-
-</td>
-
-<td align="center" width="33%">
-
-### 📊 Data & Libraries
-
-<br>
-
-**Pandas • NumPy**
-
-**Scikit-learn**
-
-**Matplotlib**
-
-</td>
-
-<td align="center" width="33%">
-
-### 🔧 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker&theme=dark" />
-
-<br><br>
-
-**Git • GitHub • VS Code**
-
-**Jupyter • Docker**
+⭐ **9.1**
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
 ---
 
-<div align="center">
+<!-- ================= EXPERIENCE ================= -->
 
-## 💼 Experience
+## 💼 Internship Experience
 
 <table>
 <tr>
@@ -170,11 +119,17 @@ AI ENGINEER
 
 📅 **Feb 2026 – May 2026**
 
-- Developed AI-powered applications using **LLMs, RAG, LangChain, Prompt Engineering, and Vector Databases**.
-- Built an **AI Resume Screening & Interview Assistant**.
-- Implemented resume summarization, candidate ranking, and AI-generated interview questions.
-- Developed a **RAG-based chatbot** for document question answering.
-- Built an interactive **Streamlit** application using Python, ChromaDB, and Groq LLM.
+Developed AI-powered applications using modern Generative AI technologies.
+
+**Key Contributions**
+
+- Built an **AI Resume Screening & Interview Assistant**
+- Implemented resume summarization and candidate ranking
+- Generated AI-powered interview questions
+- Developed a **RAG-based chatbot**
+- Worked with **LLMs, LangChain and Vector Databases**
+- Built an interactive **Streamlit application**
+- Used **ChromaDB and Groq LLM**
 
 **Technologies**
 
@@ -192,11 +147,16 @@ AI ENGINEER
 
 📅 **May 2025 – June 2025**
 
-- Applied **Machine Learning, Deep Learning, and Python** through practical implementation.
-- Worked on **data preprocessing, model training, and model evaluation**.
-- Worked on model performance optimization.
-- Built and evaluated models using **TensorFlow and CNN**.
-- Used **NumPy, Pandas, and OpenCV** for data and image processing.
+Worked on practical Machine Learning and Deep Learning implementations.
+
+**Key Contributions**
+
+- Performed **data preprocessing**
+- Worked on model training and evaluation
+- Applied Machine Learning and Deep Learning concepts
+- Built models using **TensorFlow and CNN**
+- Worked with image processing using **OpenCV**
+- Used **NumPy and Pandas** for data processing
 
 **Technologies**
 
@@ -209,11 +169,123 @@ AI ENGINEER
 </tr>
 </table>
 
+---
+
+<!-- ================= CERTIFICATIONS ================= -->
+
+## 🏆 Certifications
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### 🤖 Generative AI
+
+**Generative AI Internship Certificate**
+
+</td>
+
+<td align="center" width="50%">
+
+### 🧠 Machine Learning
+
+**Internship in Machine Learning with Python**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 🐍 Python
+
+**Python Training Completion Certificate**
+
+</td>
+
+<td align="center" width="50%">
+
+### 💻 Python Project
+
+**Python Project Completion Certificate**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+
+<br><br>
+
+### 🤖 Generative AI
+
+<img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/RAG-00A896?style=for-the-badge">
+<img src="https://img.shields.io/badge/LangChain-1F4E4E?style=for-the-badge">
+<img src="https://img.shields.io/badge/LangGraph-4C8BF5?style=for-the-badge">
+<img src="https://img.shields.io/badge/CrewAI-8E44AD?style=for-the-badge">
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge">
+
+<br><br>
+
+### 🧠 AI & Machine Learning
+
+<img src="https://img.shields.io/badge/Machine_Learning-4285F4?style=for-the-badge">
+<img src="https://img.shields.io/badge/Deep_Learning-7E57C2?style=for-the-badge">
+<img src="https://img.shields.io/badge/NLP-00A896?style=for-the-badge">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/CNN-E91E63?style=for-the-badge">
+
+<br><br>
+
+### ⚡ Backend & APIs
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/REST_APIs-6C63FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tool_Calling-8E44AD?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI_Orchestration-00A896?style=for-the-badge">
+
+<br><br>
+
+### 📊 Libraries & Data
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+<br><br>
+
+### 🔧 Developer Tools
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+
 </div>
 
 ---
 
-<div align="center">
+<!-- ================= PROJECTS ================= -->
 
 ## 🚀 Featured Projects
 
@@ -222,11 +294,13 @@ AI ENGINEER
 
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### 🎙️ Agentic Voice AI
 
-**Agentic Voice AI for Incoming Calls**
+</div>
 
-Built a multi-agent voice AI system for intelligent customer query handling and real-time conversations.
+An **Agentic Voice AI system for incoming calls** using a multi-agent architecture for intelligent customer query handling.
 
 **Key Features**
 
@@ -234,8 +308,8 @@ Built a multi-agent voice AI system for intelligent customer query handling and 
 - 📚 RAG-based Pricing Agent
 - 🔗 LangChain & LangGraph
 - 🗺️ Mapping API Integration
-- 🎤 Speech-to-Text (STT)
-- 🔊 Text-to-Speech (TTS)
+- 🎤 Speech-to-Text
+- 🔊 Text-to-Speech
 - 🧠 Conversation Memory
 - ⚡ FastAPI Voice AI Pipeline
 - 🗄️ ChromaDB
@@ -243,19 +317,24 @@ Built a multi-agent voice AI system for intelligent customer query handling and 
 
 **Technologies**
 
-`Python` `FastAPI` `Agentic AI`  
-`LangChain` `LangGraph` `RAG`  
-`ChromaDB` `STT` `TTS`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-1F4E4E?style=flat-square">
+<img src="https://img.shields.io/badge/LangGraph-4C8BF5?style=flat-square">
+<img src="https://img.shields.io/badge/RAG-00A896?style=flat-square">
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square">
 
 </td>
 
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### 🌱 Arecanut Plant Disease Classification
 
-**Arecanut Plant Disease Classification and Identification using CNN**
+</div>
 
-Built a CNN-based deep learning model for automated arecanut plant disease classification and identification.
+A **CNN-based deep learning model** for arecanut plant disease classification and identification.
 
 **Key Features**
 
@@ -268,171 +347,72 @@ Built a CNN-based deep learning model for automated arecanut plant disease class
 
 **Technologies**
 
-`Python` `CNN` `Deep Learning`  
-`TensorFlow` `Keras` `NumPy`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/CNN-E91E63?style=flat-square">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
 ---
 
-<div align="center">
-
-## 🎓 Education
-
-<table>
-<tr>
-
-<td width="70%" valign="top">
-
-### 🏫 Vidya Vikas Institute of Engineering and Technology, Mysore
-
-**B.E. — Computer Science Engineering**
-
-📅 **2022 – 2026**
-
-⭐ **CGPA: 9.1**
-
-</td>
-
-<td width="30%" align="center">
-
-🎓
-
-### CSE
-
-⭐
-
-### 9.1 CGPA
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
+<!-- ================= CURRENTLY LEARNING ================= -->
 
 ## 📚 Currently Learning
 
-<table>
-<tr>
+<div align="center">
 
-<td align="center" width="25%">
-
-🤖
-
-### Agentic AI
-
-Multi-Agent Systems
-
-AI Orchestration
-
-</td>
-
-<td align="center" width="25%">
-
-🧠
-
-### LLMs & RAG
-
-LLMs
-
-RAG
-
-Vector Databases
-
-</td>
-
-<td align="center" width="25%">
-
-⚡
-
-### AI Development
-
-LangChain
-
-LangGraph
-
-FastAPI
-
-</td>
-
-<td align="center" width="25%">
-
-🔐
-
-### Backend & Deployment
-
-JWT
-
-REST APIs
-
-Docker
-
-</td>
-
-</tr>
-</table>
+<img src="https://img.shields.io/badge/AGENTIC_AI-FF6F00?style=for-the-badge">
+<img src="https://img.shields.io/badge/LLMs-5B3CC4?style=for-the-badge">
+<img src="https://img.shields.io/badge/LANGCHAIN-1F4E4E?style=for-the-badge">
+<img src="https://img.shields.io/badge/LANGGRAPH-4C8BF5?style=for-the-badge">
+<img src="https://img.shields.io/badge/RAG-00A896?style=for-the-badge">
+<img src="https://img.shields.io/badge/VOICE_AI-8E44AD?style=for-the-badge">
+<img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge">
+<img src="https://img.shields.io/badge/JWT-333333?style=for-the-badge">
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge">
 
 </div>
 
 ---
 
-<div align="center">
+<!-- ================= GITHUB ANALYTICS ================= -->
 
 ## 📊 GitHub Analytics
 
-<table>
-<tr>
-
-<td width="50%" align="center">
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=nisarga-27&show_icons=true&theme=tokyonight&hide_border=true" />
 
-</td>
-
-<td width="50%" align="center">
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisarga-27&layout=compact&theme=tokyonight&hide_border=true" />
-
-</td>
-
-</tr>
-</table>
 
 </div>
 
 ---
 
-<div align="center">
+<!-- ================= CONNECT WITH ME ================= -->
 
 ## 🤝 Connect With Me
 
+<div align="center">
+
 <a href="mailto:ksnisarga200406@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://github.com/nisarga-27">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/nisarga-k-s-13340832b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-<br><br>
-
-### 👀 Profile Visitors
-
-<img src="https://komarev.com/ghpvc/?username=nisarga-27&color=6C63FF&style=for-the-badge">
 
 </div>
 
