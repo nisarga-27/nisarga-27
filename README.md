@@ -2,21 +2,6 @@
   <img src="./banner.png" width="100%">
 </p>
 
-
-
-
-<div align="center">
-
-# NISARGA K S
-
-### AI ENGINEER
-
-**Generative AI | LLMs | RAG | Agentic AI**
-
-**Python • Java • LangChain • LangGraph**
-
-</div>
-
 ## 👩‍💻 About Me
 
 I'm **Nisarga K S**, a Computer Science Engineering student from
