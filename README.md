@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
+
+
+
+
 <div align="center">
 
 # NISARGA K S
