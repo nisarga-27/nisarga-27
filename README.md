@@ -56,7 +56,7 @@ I enjoy transforming AI concepts into practical applications using modern framew
 - 🤝 Explore **Agentic AI and Multi-Agent Systems**
 - 🎙️ Build **Voice AI applications**
 - 🧠 Apply **Machine Learning and Deep Learning**
-- ⚡ Develop AI backends using **FastAPI**
+- ⚡ Build AI-powered applications using modern frameworks
 
 ---
 
@@ -81,7 +81,7 @@ I enjoy transforming AI concepts into practical applications using modern framew
 
 **B.E. — Computer Science Engineering**
 
-📅 2022 – 2026
+📅 **2022 – 2026**
 
 ⭐ **CGPA: 9.1**
 
@@ -155,7 +155,7 @@ Worked on practical Machine Learning and Deep Learning implementations.
 - Worked on model training and evaluation
 - Applied Machine Learning and Deep Learning concepts
 - Built models using **TensorFlow and CNN**
-- Worked with image processing using **OpenCV**
+- Worked on image processing using **OpenCV**
 - Used **NumPy and Pandas** for data processing
 
 **Technologies**
@@ -191,26 +191,6 @@ Worked on practical Machine Learning and Deep Learning implementations.
 ### 🧠 Machine Learning
 
 **Internship in Machine Learning with Python**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="50%">
-
-### 🐍 Python
-
-**Python Training Completion Certificate**
-
-</td>
-
-<td align="center" width="50%">
-
-### 💻 Python Project
-
-**Python Project Completion Certificate**
 
 </td>
 
@@ -254,15 +234,6 @@ Worked on practical Machine Learning and Deep Learning implementations.
 
 <br><br>
 
-### ⚡ Backend & APIs
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/REST_APIs-6C63FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Tool_Calling-8E44AD?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI_Orchestration-00A896?style=for-the-badge">
-
-<br><br>
-
 ### 📊 Libraries & Data
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
@@ -300,7 +271,9 @@ Worked on practical Machine Learning and Deep Learning implementations.
 
 </div>
 
-An **Agentic Voice AI system for incoming calls** using a multi-agent architecture for intelligent customer query handling.
+**Agentic Voice AI for Incoming Calls**
+
+Built a multi-agent voice AI system for intelligent customer query handling and real-time conversations.
 
 **Key Features**
 
@@ -334,7 +307,9 @@ An **Agentic Voice AI system for incoming calls** using a multi-agent architectu
 
 </div>
 
-A **CNN-based deep learning model** for arecanut plant disease classification and identification.
+**Arecanut Plant Disease Classification and Identification using CNN**
+
+Built a CNN-based deep learning model for automated arecanut plant disease classification and identification.
 
 **Key Features**
 
@@ -386,11 +361,13 @@ A **CNN-based deep learning model** for arecanut plant disease classification an
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nisarga-27&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nisarga-27&theme=github_dark" width="95%">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisarga-27&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nisarga-27&theme=github_dark" width="45%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nisarga-27&theme=github_dark" width="45%">
 
 </div>
 
