@@ -43,9 +43,7 @@
 ## 👩‍💻 About Me
 
 I'm **Nisarga K S**, a Computer Science Engineering student from **Mysore, Karnataka**, passionate about building intelligent AI-powered applications.
-
 I specialize in exploring **Generative AI, Large Language Models, RAG, Agentic AI, Multi-Agent Systems, and Machine Learning**.
-
 I enjoy transforming AI concepts into practical applications using modern frameworks and technologies.
 
 ### 🎯 What I Do
